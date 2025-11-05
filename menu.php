@@ -13,6 +13,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="?pg=faleconosco"> Contato</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="?pg=guitarras"> Guitarras</a>
+            </li>
         </ul>
     </div>
 </nav>

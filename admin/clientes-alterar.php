@@ -27,5 +27,3 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     echo "<a href='?pg=clientes-admin'>Voltar</a>";
 }
 
-
-

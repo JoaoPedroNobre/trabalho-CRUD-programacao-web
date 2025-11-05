@@ -15,7 +15,7 @@
             <th>Cliente</th>
             <th>Cidade</th>
             <th>Estado</th>
-        </r
+        </tr>
     </thead>
     <tbody>
     <?php

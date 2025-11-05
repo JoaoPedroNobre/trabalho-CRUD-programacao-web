@@ -22,7 +22,10 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="?pg=contato"> Dados de Contato</a>
-            </li>
+            </li>     
+            <li class="nav-item">
+                <a class="nav-link"  href="?pg=guitarras-admin"> Guitarras</a>
+            </li>    
         </ul>
     </div>
 </nav>
